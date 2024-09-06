@@ -1,6 +1,6 @@
 node_modules
 .env
-/.state
+/.states
 /.openzeppelin
 
 # Hardhat files
